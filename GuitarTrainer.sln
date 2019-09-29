@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarTrainer", "GuitarTrainer\GuitarTrainer.csproj", "{8B3FD76D-FDC2-45B6-9728-A95B7D1FED2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarTrainerTest", "GuitarTrainerTest\GuitarTrainerTest.csproj", "{FFD05F12-C87A-4593-834B-0D6C7099DB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3FD76D-FDC2-45B6-9728-A95B7D1FED2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3FD76D-FDC2-45B6-9728-A95B7D1FED2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3FD76D-FDC2-45B6-9728-A95B7D1FED2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3FD76D-FDC2-45B6-9728-A95B7D1FED2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD05F12-C87A-4593-834B-0D6C7099DB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD05F12-C87A-4593-834B-0D6C7099DB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD05F12-C87A-4593-834B-0D6C7099DB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD05F12-C87A-4593-834B-0D6C7099DB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
